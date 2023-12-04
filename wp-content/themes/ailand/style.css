@@ -35,12 +35,12 @@ Tags: custom-header, custom-background, threaded-comments, custom-menu, featured
 /* 01) Root
 /*************************************************************************/
 :root{
-	--ailand-bbc: #0f0e11;
-	--ailand-mc1: #7c5fe3;
+	--ailand-bbc: #061013;
+	--ailand-mc1: #0081a8;
 	--ailand-mc2: #b129de;
-	--ailand-hc: #dac7ff;
-	--ailand-bc: #7e7a87;
-	--ailand-button-bg-color: #15121c;
+	--ailand-hc: #8ed5eb;
+	--ailand-bc: #7a8087;
+	--ailand-button-bg-color: #001b22;
 	--hff: 'Roboto', sans-serif;
 	--bff: 'Work Sans', sans-serif;
 }
@@ -261,7 +261,7 @@ textarea:focus{
 .mobile_retina_logo,
 .mobile_logo,
 .desktop_logo{
-	max-width: 250px;
+	max-width: 150px;
 	max-height: 100px;
 	display: block;
 }
@@ -1541,9 +1541,9 @@ textarea:focus{
 	opacity: 0;
 	visibility: hidden;
 	pointer-events: none;
-	border: 2px solid #4e4e59;
-	color: #4e4e59;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	border: 2px solid #7a8087;
+	color: #7a8087;
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	cursor: pointer;
 	background-color: var(--ailand-bbc);
 }
@@ -1559,7 +1559,7 @@ textarea:focus{
 }
 .ailand_fn_totop:hover{
 	color: var(--ailand-hc);
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .ailand_fn_totop.active{
 	top: 100%;
@@ -1707,12 +1707,12 @@ textarea:focus{
     justify-content: space-between;
     border: 1px solid #4e4e59;
     border-radius: 30px;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	transition: all .3s ease;
 }
 .ailand_fn_footer .footer_subscribe_form.focused .fn__subscribe,
 .footer_subscribe_form .fn__subscribe:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .footer_subscribe_form div.wpforms-container-full{
 	margin: 0;
