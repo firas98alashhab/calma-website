@@ -654,7 +654,6 @@ textarea:focus{
 	bottom: 0;
     transform: rotate(90deg);
 	transition-delay: 0s;
-	background-color: #fff;
 	width: 30px;
 	left: 0;
 }
@@ -4608,7 +4607,7 @@ body.elementor-editor-active .frenify-cursor{
 	}
 	.footer_subscribe_form input[type=email],
 	.footer_subscribe_form div.wpforms-container-full .wpforms-form input[type=email]{
-		box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+		box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 		border: 1px solid #4e4e59 !important;
 		border-radius: 30px !important;
 		margin-bottom: 10px;
@@ -4617,7 +4616,7 @@ body.elementor-editor-active .frenify-cursor{
 	.footer_subscribe_form div.wpforms-container-full .wpforms-form input[type=email]:focus,
 	.footer_subscribe_form input[type=email]:hover,
 	.footer_subscribe_form div.wpforms-container-full .wpforms-form input[type=email]:hover{
-		box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+		box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 	}
 	.ailand_fn_footer .footer_middle[data-cols="2"] .footer_middle_row,
 	.ailand_fn_footer .footer_middle[data-cols="3"] .footer_middle_row,
