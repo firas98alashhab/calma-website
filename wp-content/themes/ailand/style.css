@@ -170,7 +170,7 @@ textarea{
     max-width: 100%;
     min-width: 100%;
     display: block;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5659;
     border-radius: 30px;
     padding: 21px 26px;
     font-size: 18px;
@@ -178,12 +178,12 @@ textarea{
     font-family: var(--hff);
     font-style: normal;
     color: #fff;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 }
 textarea:focus{
 	outline: none;
 	background-color: transparent;
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .container{
 	max-width: 1420px;
@@ -401,7 +401,7 @@ textarea:focus{
 	border: 1px solid #4e4e59;
     border-radius: 10px;
     padding: 30px 0;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 }
 .ailand_fn_header_hor .ailand_fn_main_nav ul ul{
 	top: 0;
@@ -1124,14 +1124,14 @@ textarea:focus{
 
 .blog__item{
 	padding: 19px 19px 39px;
-	border: 1px solid #4e4e59;
+	border: 1px solid #4e5759;
 	border-radius: 10px;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	position: relative;
 	transition: all .3s ease;
 }
 .blog__item:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .blog__item .post_icon{
 	position: absolute;
@@ -1505,13 +1505,13 @@ textarea:focus{
 	font-family: var(--hff);
 	letter-spacing: .5px;
 	color: var(--ailand-bc);
-	border: 1px solid #4e4e59;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	border: 1px solid #4e5759;
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	text-align: center;
 }
 .ailand_fn_pagination a:hover{
 	color: #fff;
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .ailand_fn_pagination .current{
 	background-color: var(--ailand-mc1);
@@ -1519,16 +1519,6 @@ textarea:focus{
 	border-color: var(--ailand-mc1);
 	box-shadow: none;
 }
-
-
-
-
-
-
-
-
-
-
 .ailand_fn_totop{
 	position: fixed;
 	top: -100px;
@@ -1540,7 +1530,7 @@ textarea:focus{
 	opacity: 0;
 	visibility: hidden;
 	pointer-events: none;
-	border: 2px solid #7a8087;
+	border: 2px solid #7a8587;
 	color: #7a8087;
 	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	cursor: pointer;
@@ -1704,7 +1694,7 @@ textarea:focus{
     display: -o-flex;
     display: flex;
     justify-content: space-between;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5759;
     border-radius: 30px;
 	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	transition: all .3s ease;
@@ -2018,16 +2008,16 @@ body.search-active .ailand_fn_searchbox{
 
 
 .ailand_fn_comments{
-	border: 1px solid #4e4e59;
+	border: 1px solid #4e5759;
 	border-radius: 10px;
 	position: relative;
 	background-color: var(--ailand-bbc);
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	margin-bottom: 70px;
     transition: all .3s ease;
 }
 .ailand_fn_comments:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .ailand_fn_comments.comment_type_always_open{
 	background-color: #fff;
@@ -2365,7 +2355,7 @@ body.search-active .ailand_fn_searchbox{
 	max-width: 100%;
 	min-width: 100%;
 	display: block;
-	border: 1px solid #4e4e59;
+	border: 1px solid #4e5659;
 	border-radius: 30px;
 	height: 60px;
 	padding: 0 26px;
@@ -2373,10 +2363,10 @@ body.search-active .ailand_fn_searchbox{
 	font-weight: 500;
 	font-family: var(--hff);
 	color: #fff;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 }
 .comment-respond .input-holder input:not([type="submit"]):focus{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .logged-in-as{
 	font-size: 18px;
@@ -2416,15 +2406,15 @@ body.search-active .ailand_fn_searchbox{
 }
 .ailand_fn_single .single__content{
 	padding: 19px 19px 39px;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5559;
     border-radius: 10px;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
     position: relative;
     transition: all .3s ease;
 	margin-bottom: 60px;
 }
 .ailand_fn_single .single__content:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 
 
@@ -2518,7 +2508,7 @@ body.search-active .ailand_fn_searchbox{
 .ailand_fn_pnb .middle_trigger:after{
 	border: 1px solid #4e4e59;
 	border-radius: 5px;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	transition: all .3s ease;
 }
 .ailand_fn_pnb .middle_trigger span{
@@ -2775,7 +2765,7 @@ body.search-active .ailand_fn_searchbox{
 	z-index: 9999;
 	background-color: #000;
 	border: 1px solid #4e4e59;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	color: #fff;
 	width: auto;
 	max-width: 100vw;
@@ -2804,7 +2794,7 @@ body.search-active .ailand_fn_searchbox{
     padding: 0;
 }
 a.ailand_fn_reaction_btn{
-	border: 1px solid #4e4e59;
+	border: 1px solid #4e5559;
 	border-radius: 10px;
 	padding: 20px 10px 10px;
 	display: -webkit-flex;
@@ -2824,10 +2814,10 @@ a.ailand_fn_reaction_btn{
 	position: relative;
 	z-index: 2;
 	transition: all .3s ease;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 }
 a.ailand_fn_reaction_btn:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 a.ailand_fn_reaction_btn img{
 	width: 50px;
@@ -2869,7 +2859,7 @@ a.ailand_fn_reaction_btn .text{
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1f2c5c",endColorstr="#1f2c5c",GradientType=1);
 }
 a.ailand_fn_reaction_btn.active{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 a.ailand_fn_reaction_btn.active .text,
 a.ailand_fn_reaction_btn:hover .text{
@@ -2942,8 +2932,8 @@ a.fn__mobile_closer{
 	width: 50px;
 	height: 50px;
 	border-radius: 5px;
-	border: 1px solid #4e4e59;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	border: 1px solid #4e5559;
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	background-color: var(--ailand-bbc);
 	z-index: 99;
 }
@@ -3163,14 +3153,14 @@ a.fn__mobile_closer:before{
 	font-size: 20px;
 	width: 50px;
 	height: 50px;
-	border: 1px solid #4e4e59;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	border: 1px solid #4e5759;
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	border-radius: 5px;
 	transition: all .3s ease;
 	position: relative;
 }
 .ailand_fn_vertnav_mini .vertnav_bottom a:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .ailand_fn_vertnav_mini .vertnav_bottom a .fn__svg{
 	width: 20px;
@@ -3346,8 +3336,8 @@ a.fn__mobile_closer:before{
 	font-size: 20px;
 	width: 50px;
 	height: 50px;
-	border: 1px solid #4e4e59;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	border: 1px solid #4e5759;
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 	border-radius: 5px;
 	transition: all .3s ease;
 	position: relative;
@@ -3371,7 +3361,7 @@ a.fn__mobile_closer:before{
 	font-family: var(--hff);
 }
 .ailand_fn_vertnav .icon_list a:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .ailand_fn_vertnav .icon_list a .fn__svg{
 	width: 20px;
@@ -3507,9 +3497,9 @@ a.fn__mobile_closer:before{
     display: -o-flex;
     display: flex;
     justify-content: space-between;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5659;
     border-radius: 30px;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
     transition: all .3s ease;
 }
 .ailand_fn_protected input[type="password"],
@@ -3654,14 +3644,14 @@ a.fn__mobile_closer:before{
 
 .featured_post_item{
 	padding: 30px 29px 15px;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5859;
     border-radius: 10px;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
     position: relative;
     transition: all .3s ease;
 }
 .featured_post_item:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .featured_post_item .fp_heading .text{
 	width: 100%;
@@ -3683,8 +3673,8 @@ a.fn__mobile_closer:before{
     display: block;
     margin-bottom: 30px;
     padding: 0 10px;
-    border: 1px solid #4e4e59;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+    border: 1px solid #4e5759;
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 }
 .featured_post_item .fp_heading{
 	position: relative;
@@ -3815,14 +3805,14 @@ a.fn__mobile_closer:before{
 }
 .ailand_fn_project_modern .item{
 	padding: 19px;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5659;
     border-radius: 10px;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
     position: relative;
     transition: all .3s ease;
 }
 .ailand_fn_project_modern .item:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .ailand_fn_project_modern .item_in{
 	height: 100%;
@@ -3964,14 +3954,14 @@ a.fn__mobile_closer:before{
 .ailand_fn_project_zigzag .item{
 	padding: 19px;
 	width: 100%;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5659;
     border-radius: 10px;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
     position: relative;
     transition: all .3s ease;
 }
 .ailand_fn_project_zigzag .item:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .ailand_fn_project_zigzag .item_in{
 	height: 100%;
@@ -4084,14 +4074,14 @@ a.fn__mobile_closer:before{
 }
 .ailand_fn_project_s_sticky .images .item{
 	padding: 19px;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5759;
     border-radius: 10px;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
     position: relative;
     transition: all .3s ease;
 }
 .ailand_fn_project_s_sticky .images .item:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .ailand_fn_project_s_sticky .images img{
 	min-width: 100%;
@@ -4169,14 +4159,14 @@ a.fn__mobile_closer:before{
 .ailand_fn_project_s_carousel .owl-carousel .item{
 	width: 540px;
 	padding: 19px;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5659;
     border-radius: 10px;
-    box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+    box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
     position: relative;
     transition: all .3s ease;
 }
 .ailand_fn_project_s_carousel .owl-carousel .item:hover{
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .ailand_fn_project_s_carousel .carousel_content{
 	padding-top: 100px;
@@ -4422,7 +4412,7 @@ body.elementor-editor-active .frenify-cursor{
     max-width: 100%;
     min-width: 100%;
     display: block;
-    border: 1px solid #4e4e59;
+    border: 1px solid #4e5759;
     border-radius: 30px;
 	height: 60px;
     font-size: 18px;
@@ -4430,7 +4420,7 @@ body.elementor-editor-active .frenify-cursor{
     font-family: var(--hff);
     font-style: normal;
     color: #fff;
-	box-shadow: 0px 0px 7px rgba(125,94,227,0.7);
+	box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
 }
 .fn__contact input[type="number"]:focus,
 .fn__contact input[type="email"]:focus, 
@@ -4448,7 +4438,7 @@ body.elementor-editor-active .frenify-cursor{
 .fn__contact input[type="week"]:focus{
 	outline: none;
 	background-color: transparent;
-	box-shadow: 0px 0px 15px rgba(125,94,227,0.9);
+	box-shadow: 0px 0px 15px rgba(94, 209, 227,0.9);
 }
 .fn__contact .fn__submit{
 	position: relative;
@@ -4608,7 +4598,7 @@ body.elementor-editor-active .frenify-cursor{
 	.footer_subscribe_form input[type=email],
 	.footer_subscribe_form div.wpforms-container-full .wpforms-form input[type=email]{
 		box-shadow: 0px 0px 7px rgba(94, 209, 227, 0.7);
-		border: 1px solid #4e4e59 !important;
+		border: 1px solid #4e5659 !important;
 		border-radius: 30px !important;
 		margin-bottom: 10px;
 	}
